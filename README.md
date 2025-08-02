@@ -1,10 +1,10 @@
 <p align="left">
-🌐 <a href="#-english">English</a> | <a href="#-日本語">日本語</a>
+🔤 <a href="#english">English</a> | 🇯🇵 <a href="#日本語">日本語</a>
 </p>
 
 ---
 
-## 🔤 English
+## English
 
 # 🦙 Simple Notebook for sbl-optimizer simple: Print Pattern Optimizer for [Swell by Light](https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/)
 [![Simpler Colab](https://img.shields.io/badge/Try_This_Notebook-black?logo=googlecolab)](https://colab.research.google.com/drive/1Kpvq15wZrzsnQI28_JfkDSqCwT1ouyxj?usp=sharing)
@@ -73,7 +73,7 @@ series = {TEI '25}
 
 
 ---
-## 🇯🇵 日本語
+## 日本語
 
 # 🦙 sbl-optimizer用の簡易版ノート：[Swell by Light](https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/) の印刷パターン最適化ツール
 [![Simpler Colab](https://img.shields.io/badge/Try_This_Notebook-black?logo=googlecolab)](https://colab.research.google.com/drive/1Kpvq15wZrzsnQI28_JfkDSqCwT1ouyxj?usp=sharing)
