@@ -76,7 +76,7 @@ series = {TEI '25}
 ## 日本語
 
 # **``🦙 sbl-optimizer light``** 簡易ノート<br>[Swell by Light](https://sites.gatech.edu/futurefeelings/2025/07/03/swell-by-light-tei-25-2/)用の模様最適化簡易版
-[![Simpler Colab](https://img.shields.io/badge/Try_This_Notebook-black?logo=googlecolab)](https://colab.research.google.com/drive/15zYmaNvh88jztUcqpzwLXtT4YMRk2i1G?usp=sharing)
+[![Simpler Colab](https://img.shields.io/badge/このノートを開く-black?logo=googlecolab)](https://colab.research.google.com/drive/15zYmaNvh88jztUcqpzwLXtT4YMRk2i1G?usp=sharing)
 
 [![PyPI version](https://badge.fury.io/py/sbl-optimizer.svg)](https://badge.fury.io/py/sbl-optimizer)
 [![sbl-optimizer](https://img.shields.io/badge/sbl--optimizer-black?logo=github)](https://github.com/sosucat/sbl-optimizer?tab=readme-ov-file#sbl-optimizer-%E6%97%A5%E6%9C%AC%E8%AA%9E)
@@ -94,7 +94,7 @@ series = {TEI '25}
 
 コードの詳細をもっと理解したい方は、上級者向けのColabノートをご覧ください。
 
-[![Advanced Colab](https://img.shields.io/badge/上級者向けColabノート-black?logo=googlecolab)](https://colab.research.google.com/drive/1GLLGjPD7EhUV6evPHUeh6qHe3aNMV47u?usp=sharing)
+[![Advanced Colab](https://img.shields.io/badge/上級版ノートを開く-black?logo=googlecolab)](https://colab.research.google.com/drive/1GLLGjPD7EhUV6evPHUeh6qHe3aNMV47u?usp=sharing)
 
 ---
 
