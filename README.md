@@ -6,7 +6,7 @@
 
 ## English
 
-# **``🦙 sbl-optimizer light``** Simpler Notebook<br> Print Pattern Optimizer for [Swell by Light](https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/)
+# **``🦙 sbl-optimizer light``** Easy Colab<br> Print Pattern Optimizer for [Swell by Light](https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/)
 [![Simpler Colab](https://img.shields.io/badge/Try_This_Notebook-black?logo=googlecolab)](https://colab.research.google.com/drive/1Kpvq15wZrzsnQI28_JfkDSqCwT1ouyxj?usp=sharing)
 
 [![License](https://img.shields.io/badge/license-MIT-750014)](LICENSE)
@@ -23,7 +23,7 @@ Welcome to **sbl-optimizer**, a tool optimizing your pattern images for 2.5D tex
 **This notebook is a simplified version** of the full walk-through. Anyone—even with zero coding experience—can upload a picture, run cells, and get an optimized pattern you can print, shine light, and watch pop up like magic.
 If you want to understand the codes in detail, please check out the advanced Colab notebook:
 
-[![Advanced Colab](https://img.shields.io/badge/Advanced_Colab_Notebook-black?logo=googlecolab)](https://colab.research.google.com/drive/1KX5W0MG34zS_qX7RqeMLizrkhlWp8ojh?usp=sharing)
+[![Advanced Colab](https://img.shields.io/badge/Advanced_Colab-black?logo=googlecolab)](https://colab.research.google.com/drive/1KX5W0MG34zS_qX7RqeMLizrkhlWp8ojh?usp=sharing)
 
 ---
 
@@ -76,7 +76,7 @@ series = {TEI '25}
 ---
 ## 日本語
 
-# **``🦙 sbl-optimizer light``** 簡易ノート<br>[Swell by Light](https://sites.gatech.edu/futurefeelings/2025/07/03/swell-by-light-tei-25-2/)用の模様最適化簡易版
+# **``🦙 sbl-optimizer light``** 簡易版Colab<br>[Swell by Light](https://sites.gatech.edu/futurefeelings/2025/07/03/swell-by-light-tei-25-2/)用の模様最適化簡易版
 [![Simpler Colab](https://img.shields.io/badge/このノートを開く-black?logo=googlecolab)](https://colab.research.google.com/drive/15zYmaNvh88jztUcqpzwLXtT4YMRk2i1G?usp=sharing)
 
 [![License](https://img.shields.io/badge/license-MIT-750014)](LICENSE)
@@ -96,7 +96,7 @@ series = {TEI '25}
 
 コードの詳細をもっと理解したい方は、上級者向けのColabノートをご覧ください。
 
-[![Advanced Colab](https://img.shields.io/badge/上級版ノートを開く-black?logo=googlecolab)](https://colab.research.google.com/drive/1GLLGjPD7EhUV6evPHUeh6qHe3aNMV47u?usp=sharing)
+[![Advanced Colab](https://img.shields.io/badge/上級版Colab-black?logo=googlecolab)](https://colab.research.google.com/drive/1GLLGjPD7EhUV6evPHUeh6qHe3aNMV47u?usp=sharing)
 
 ---
 
