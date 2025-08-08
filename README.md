@@ -96,7 +96,7 @@ series = {TEI '25}
 
 コードの詳細をもっと理解したい方は、上級者向けのColabノートをご覧ください。
 
-[![Advanced Colab](https://img.shields.io/badge/上級版Colab-black?logo=googlecolab)](https://colab.research.google.com/drive/1GLLGjPD7EhUV6evPHUeh6qHe3aNMV47u?usp=sharing)
+[![Advanced Colab](https://img.shields.io/badge/上級版Colabを開く-black?logo=googlecolab)](https://colab.research.google.com/drive/1GLLGjPD7EhUV6evPHUeh6qHe3aNMV47u?usp=sharing)
 
 ---
 
