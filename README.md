@@ -9,6 +9,7 @@
 # **``🦙 sbl-optimizer light``** Simpler Notebook<br> Print Pattern Optimizer for [Swell by Light](https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/)
 [![Simpler Colab](https://img.shields.io/badge/Try_This_Notebook-black?logo=googlecolab)](https://colab.research.google.com/drive/1Kpvq15wZrzsnQI28_JfkDSqCwT1ouyxj?usp=sharing)
 
+[![License](https://img.shields.io/badge/license-MIT-750014)](LICENSE)
 [![PyPI version](https://badge.fury.io/py/sbl-optimizer.svg)](https://badge.fury.io/py/sbl-optimizer)
 [![sbl-optimizer](https://img.shields.io/badge/sbl--optimizer-black?logo=github)](https://github.com/sosucat/sbl-optimizer)
 
@@ -78,6 +79,7 @@ series = {TEI '25}
 # **``🦙 sbl-optimizer light``** 簡易ノート<br>[Swell by Light](https://sites.gatech.edu/futurefeelings/2025/07/03/swell-by-light-tei-25-2/)用の模様最適化簡易版
 [![Simpler Colab](https://img.shields.io/badge/このノートを開く-black?logo=googlecolab)](https://colab.research.google.com/drive/15zYmaNvh88jztUcqpzwLXtT4YMRk2i1G?usp=sharing)
 
+[![License](https://img.shields.io/badge/license-MIT-750014)](LICENSE)
 [![PyPI version](https://badge.fury.io/py/sbl-optimizer.svg)](https://badge.fury.io/py/sbl-optimizer)
 [![sbl-optimizer](https://img.shields.io/badge/sbl--optimizer-black?logo=github)](https://github.com/sosucat/sbl-optimizer?tab=readme-ov-file#sbl-optimizer-%E6%97%A5%E6%9C%AC%E8%AA%9E)
 
